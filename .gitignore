@@ -1,0 +1,6 @@
+.cproject
+.project
+.settings/*
+.ino.cpp
+Release/.ino.cpp.*
+Release/*
